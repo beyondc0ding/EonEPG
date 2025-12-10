@@ -1,196 +1,196 @@
 # EonEPG
 
-EON EPG Generator (made by So Far So Good)
-
-Currently supported channels:
-
-24 Kitchen HD
-360 TuneBox HD
-7/8 TV HD
-Alfa
-AMC
-Animal Planet HD
-Arena Action HD
-Arena Comedy HD
-Arena Life HD
-Auto Motor Sport HD
-AXN
-AXN White
-AXN Black
-BG Music Ch. HD
-BOX TV HD
-Baby TV
-Barely Legal TV
-BeIn Movies
-Bloomberg
-Bloomberg BG
-BulgariaOnAir HD
-C Music
-CI Network
-CTC Kids
-Cartoon Network 
-Cartoonito
-CentoXCento HD
-Chasse&Peche
-Cinemania HD
-Cinemax 2 HD
-Cinemax HD
-City TV HD
-ClassicalHarmony
-Code Fashion TV
-Code Health TV
-DM Sat
-DSTV
-Da Vinci
-Deluxe Lounge HD
-Deluxe Music HD
-Diema Family HD
-Diema HD
-Diema Sport 2 HD
-Diema Sport 3 HD
-Diema Sport HD
-Discovery HD
-Disney
-Disney Junior
-Docubox HD
-Dorcel TV HD
-Duck TV HD
-E-Kids
-EROTA HD
-EROXXX HD
-Epic Drama HD
-EroX HD
-Euronews BG HD
-Euronews HD
-Eurosport 1 HD
-Eurosport 2 HD
-Fantazzy
-Fashion TV HD
-FashionBox HD
-Fast and Fun HD
-FightBox HD
-FightKlub HD
-FilmBOX Stars HD
-FilmBox ArtHouse HD
-Filmbox Basic
-Filmbox Extra HD
-Fishing and Hunting HD
-Folklor
-Food Network HD
-Gametoon HD
-Grand 2 HD
-Grand HD
-HBO 2 HD
-HBO 3 HD
-HBO HD
-HGTV
-HUSTLER TV
-History 2
-History HD
-Hit Mix HD
-ID HD
-IDJ
-IDJ Kids HD
-Jim Jam
-Karusel
-Kids Stars HD
-Kino Nova HD
-Kitchen TV HD
-Love Nature HD
-MAX Sport 1 HD
-MAX Sport 2 HD
-MAX Sport 3 HD
-MAX Sport 4 HD
-MTV
-MTV 00s
-MTV 80s
-MTV 90s
-MTV Hits
-MTV Live 
-Magic TV HD
-Marquee TV HD
-Mate Kitchen HD
-Motorvision.tv HD
-MovieStar HD
-NG Wild HD
-Nat Geo HD
-Nick Junior
-Nickelodeon
-Nicktoons
-Nostalgia HD
-Nova News HD
-Nova Sport HD
-Oh!Jazz HD
-PPTV HD
-Passion XXX
-Passion XXX 2
-Pickbox TV
-Planeta 4K
-Playboy HD
-Private TV
-REDLIGHT HD
-Ribalka i Ohota
-Ring HD
-Rodina TV
-STAR Channel HD
-STAR Crime HD
-STAR Life HD
-Soul&Pepper HD
-SuperToons HD
-Telekabel
-TLC HD
-Trace Sports
-TV 999 HD
-TV Tourism HD
-The Voice HD
-The World
-TinyTeen TV
-Travel Channel HD
-Travel TV
-Travel XP HD
-Trofey
-V True Crime HD
-VIVACOM Arena HD
-VTK
-Viasat Kino HD
-Viasat Nature HD
-ViasatExplore HD
-ViasatHistory HD
-Vivid TV
-Wild TV
-Wness HD
-XY Mix HD
-XY Plus
-Zivi!
-bTV Action HD
-bTV Cinema HD
-bTV Comedy HD
-bTV HD
-bTV Story HD
-club MTV
-dizi HD
-iConcerts HD
-Агро ТВ
-БГ+ HD
-БНТ 1 HD
-БНТ 2 HD
-БНТ 3 HD
-БНТ 4 HD
-БХТВ
-Балканика HD
-Без багаж HD
-България 24
-Детский мир / Телеклуб
-Евроком HD
-Канал 4 HD
-ЛРК HD
-ММА TV HD
-Нова HD
-Планета HD
-Планета Фолк HD
-СКАТ
-ТВ Шумен HD
-Тянков Ориент HD
-Тянков Фолк
-ФЕН ТВ HD
-Фен Фолк ТВ
+EON EPG Generator (made by So Far So Good)<br/>
+<br/>
+Currently supported channels:<br/>
+<br/>
+24 Kitchen HD<br/>
+360 TuneBox HD<br/>
+7/8 TV HD<br/>
+Alfa<br/>
+AMC<br/>
+Animal Planet HD<br/>
+Arena Action HD<br/>
+Arena Comedy HD<br/>
+Arena Life HD<br/>
+Auto Motor Sport HD<br/>
+AXN<br/>
+AXN White<br/>
+AXN Black<br/>
+BG Music Ch. HD<br/>
+BOX TV HD<br/>
+Baby TV<br/>
+Barely Legal TV<br/>
+BeIn Movies<br/>
+Bloomberg<br/>
+Bloomberg BG<br/>
+BulgariaOnAir HD<br/>
+C Music<br/>
+CI Network<br/>
+CTC Kids<br/>
+Cartoon Network <br/>
+Cartoonito<br/>
+CentoXCento HD<br/>
+Chasse&Peche<br/>
+Cinemania HD<br/>
+Cinemax 2 HD<br/>
+Cinemax HD<br/>
+City TV HD<br/>
+ClassicalHarmony<br/>
+Code Fashion TV<br/>
+Code Health TV<br/>
+DM Sat<br/>
+DSTV<br/>
+Da Vinci<br/>
+Deluxe Lounge HD<br/>
+Deluxe Music HD<br/>
+Diema Family HD<br/>
+Diema HD<br/>
+Diema Sport 2 HD<br/>
+Diema Sport 3 HD<br/>
+Diema Sport HD<br/>
+Discovery HD<br/>
+Disney<br/>
+Disney Junior<br/>
+Docubox HD<br/>
+Dorcel TV HD<br/>
+Duck TV HD<br/>
+E-Kids<br/>
+EROTA HD<br/>
+EROXXX HD<br/>
+Epic Drama HD<br/>
+EroX HD<br/>
+Euronews BG HD<br/>
+Euronews HD<br/>
+Eurosport 1 HD<br/>
+Eurosport 2 HD<br/>
+Fantazzy<br/>
+Fashion TV HD<br/>
+FashionBox HD<br/>
+Fast and Fun HD<br/>
+FightBox HD<br/>
+FightKlub HD<br/>
+FilmBOX Stars HD<br/>
+FilmBox ArtHouse HD<br/>
+Filmbox Basic<br/>
+Filmbox Extra HD<br/>
+Fishing and Hunting HD<br/>
+Folklor<br/>
+Food Network HD<br/>
+Gametoon HD<br/>
+Grand 2 HD<br/>
+Grand HD<br/>
+HBO 2 HD<br/>
+HBO 3 HD<br/>
+HBO HD<br/>
+HGTV<br/>
+HUSTLER TV<br/>
+History 2<br/>
+History HD<br/>
+Hit Mix HD<br/>
+ID HD<br/>
+IDJ<br/>
+IDJ Kids HD<br/>
+Jim Jam<br/>
+Karusel<br/>
+Kids Stars HD<br/>
+Kino Nova HD<br/>
+Kitchen TV HD<br/>
+Love Nature HD<br/>
+MAX Sport 1 HD<br/>
+MAX Sport 2 HD<br/>
+MAX Sport 3 HD<br/>
+MAX Sport 4 HD<br/>
+MTV<br/>
+MTV 00s<br/>
+MTV 80s<br/>
+MTV 90s<br/>
+MTV Hits<br/>
+MTV Live <br/>
+Magic TV HD<br/>
+Marquee TV HD<br/>
+Mate Kitchen HD<br/>
+Motorvision.tv HD<br/>
+MovieStar HD<br/>
+NG Wild HD<br/>
+Nat Geo HD<br/>
+Nick Junior<br/>
+Nickelodeon<br/>
+Nicktoons<br/>
+Nostalgia HD<br/>
+Nova News HD<br/>
+Nova Sport HD<br/>
+Oh!Jazz HD<br/>
+PPTV HD<br/>
+Passion XXX<br/>
+Passion XXX 2<br/>
+Pickbox TV<br/>
+Planeta 4K<br/>
+Playboy HD<br/>
+Private TV<br/>
+REDLIGHT HD<br/>
+Ribalka i Ohota<br/>
+Ring HD<br/>
+Rodina TV<br/>
+STAR Channel HD<br/>
+STAR Crime HD<br/>
+STAR Life HD<br/>
+Soul&Pepper HD<br/>
+SuperToons HD<br/>
+Telekabel<br/>
+TLC HD<br/>
+Trace Sports<br/>
+TV 999 HD<br/>
+TV Tourism HD<br/>
+The Voice HD<br/>
+The World<br/>
+TinyTeen TV<br/>
+Travel Channel HD<br/>
+Travel TV<br/>
+Travel XP HD<br/>
+Trofey<br/>
+V True Crime HD<br/>
+VIVACOM Arena HD<br/>
+VTK<br/>
+Viasat Kino HD<br/>
+Viasat Nature HD<br/>
+ViasatExplore HD<br/>
+ViasatHistory HD<br/>
+Vivid TV<br/>
+Wild TV<br/>
+Wness HD<br/>
+XY Mix HD<br/>
+XY Plus<br/>
+Zivi!<br/>
+bTV Action HD<br/>
+bTV Cinema HD<br/>
+bTV Comedy HD<br/>
+bTV HD<br/>
+bTV Story HD<br/>
+club MTV<br/>
+dizi HD<br/>
+iConcerts HD<br/>
+Агро ТВ<br/>
+БГ+ HD<br/>
+БНТ 1 HD<br/>
+БНТ 2 HD<br/>
+БНТ 3 HD<br/>
+БНТ 4 HD<br/>
+БХТВ<br/>
+Балканика HD<br/>
+Без багаж HD<br/>
+България 24<br/>
+Детский мир / Телеклуб<br/>
+Евроком HD<br/>
+Канал 4 HD<br/>
+ЛРК HD<br/>
+ММА TV HD<br/>
+Нова HD<br/>
+Планета HD<br/>
+Планета Фолк HD<br/>
+СКАТ<br/>
+ТВ Шумен HD<br/>
+Тянков Ориент HD<br/>
+Тянков Фолк<br/>
+ФЕН ТВ HD<br/>
+Фен Фолк ТВ<br/>
