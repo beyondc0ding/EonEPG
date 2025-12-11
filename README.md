@@ -1,6 +1,6 @@
 # EonEPG
 
-EON EPG Generator (made by So Far So Good)<br/>
+EON EPG (made by So Far So Good)<br/>
 <br/>
 Currently supported channels:<br/>
 <br/>
