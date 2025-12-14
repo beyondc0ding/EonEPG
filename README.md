@@ -35,6 +35,8 @@ Chasse&Peche<br/>
 Cinemania HD<br/>
 Cinemax 2 HD<br/>
 Cinemax HD<br/>
+CineStar 1 HD<br/>
+CineStar Action&Thriller HD<br/>
 City TV HD<br/>
 ClassicalHarmony<br/>
 Code Fashion TV<br/>
