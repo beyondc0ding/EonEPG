@@ -80,6 +80,7 @@ Fishing and Hunting HD<br/>
 Folklor<br/>
 Food Network HD<br/>
 Gametoon HD<br/>
+Galaxy HD<br/>
 Grand 2 HD<br/>
 Grand HD<br/>
 HBO 2 HD<br/>
