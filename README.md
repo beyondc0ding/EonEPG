@@ -198,3 +198,6 @@ iConcerts HD<br/>
 ФЕН ТВ HD<br/>
 Фен Фолк ТВ<br/>
 Канал 0<br/>
+RM TV<br/>
+TV Vratsa<br/>
+eTV<br/>
