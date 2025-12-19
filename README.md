@@ -135,6 +135,8 @@ REDLIGHT HD<br/>
 Ribalka i Ohota<br/>
 Ring HD<br/>
 Rodina TV<br/>
+SkyShowtime 1 HD<br/>
+SkyShowtime 2 HD<br/>
 STAR Channel HD<br/>
 STAR Crime HD<br/>
 STAR Life HD<br/>
