@@ -203,3 +203,5 @@ iConcerts HD<br/>
 RM TV<br/>
 TV Vratsa<br/>
 eTV<br/>
+TV21<br/>
+Telenews<br/>
