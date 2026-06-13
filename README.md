@@ -104,6 +104,8 @@ MAX Sport 1 HD<br/>
 MAX Sport 2 HD<br/>
 MAX Sport 3 HD<br/>
 MAX Sport 4 HD<br/>
+MAX One<br/>
+MAX Movie<br/>
 MTV<br/>
 MTV 00s<br/>
 MTV 80s<br/>
