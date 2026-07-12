@@ -7,7 +7,6 @@ Currently supported channels:<br/>
 24 Kitchen HD<br/>
 360 TuneBox HD<br/>
 7/8 TV HD<br/>
-Alfa<br/>
 AMC<br/>
 Animal Planet HD<br/>
 Arena Action HD<br/>
